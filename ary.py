@@ -1,6 +1,6 @@
-k,m=map(int,input().split())
+s,m=map(int,input().split())
 kk=list(map(int,input().split()))
-a=0
+c=0
 for i in range(0):
-  a=a+kk[i]
-print(a)
+  c=c+kk[i]
+print(c)
